@@ -1,19 +1,19 @@
 {
-  "name": "gulp-htmlhint",
+  "name": "gulp-htmlhint-ng2",
   "version": "0.3.1",
   "description": "A plugin for Gulp",
   "keywords": [
     "gulpplugin"
   ],
-  "homepage": "https://github.com/bezoerb/gulp-htmlhint",
+  "homepage": "https://github.com/mochtu/gulp-htmlhint-ng2",
   "bugs": {
-    "url": "https://github.com/bezoerb/gulp-htmlhint/issues"
+    "url": "https://github.com/mochtu/gulp-htmlhint-ng2/issues"
   },
   "author": "Ben Zörb (https://github.com/bezoerb)",
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bezoerb/gulp-htmlhint.git"
+    "url": "git://github.com/mochtu/gulp-htmlhint-ng2.git"
   },
   "scripts": {
     "test": "xo && mocha test/*.js"
